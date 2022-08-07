@@ -1,8 +1,9 @@
 html {
   background-color: #F0EABE;
+  text-align: center;
 }
 h1{
-  text-align: center;
+  
   color: #21E1E1;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 50px;
