@@ -1,22 +1,22 @@
 html {
-  background-color: #F0EABE;
+  background-color: #FEF9A7;
 }
 h1{
-  text-align: center;
-  color: #21E1E1;
+  text-align: justify;
+  color: #FAC213;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 50px;
 }
 
 p{
-  color: #3120E0;
+  color: #D61C4E;
 }
 
 h3{
-  color: #3B9AE1;
+  color: #F77E21;
 }
 
 li
 {
-  color: #3120E0;
+  color: #D61C4E;
 }
